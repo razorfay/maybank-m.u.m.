@@ -18,16 +18,6 @@ This app is intended to be integrated into the currently existing Maybank mobile
 * Timeline of user's transaction history and what categories the money falls under
 * Also displays points gotten along the way from investments and savings
 
-## Quick Guide to how the App will work
-
-![Main Page] (https://github.com/razorfay/maybank-m.u.m./blob/master/Main%20Page.png) 
-
-![Transaction Page] (https://github.com/razorfay/maybank-m.u.m./blob/master/Transaction%20Page.png) 
-
-![Savings Page] (https://github.com/razorfay/maybank-m.u.m./blob/master/Savings%20Page.png) 
-
-![Rewards Page] (https://github.com/razorfay/maybank-m.u.m./blob/master/Rewards%20Page.png) 
-
 ## Ambitions for the future
 * Tracking and analysing spending habits
 * Advice on financial management based on habits/ given through in app guides
@@ -50,3 +40,15 @@ This app is intended to be integrated into the currently existing Maybank mobile
 * Push users into certain deals and cards through the app
 * Banks get to show care for the customers and their financial health
 * BIG DATA (limitless possibilities!)
+
+## Quick Guide to how the App will work
+
+![Main Page](https://github.com/razorfay/maybank-m.u.m./blob/master/Main%20Page.png?raw=true) 
+
+![Transaction Page](https://github.com/razorfay/maybank-m.u.m./blob/master/Transaction%20Page.png?raw=true) 
+
+![Savings Page](https://github.com/razorfay/maybank-m.u.m./blob/master/Savings%20Page.png?raw=true) 
+
+![Rewards Page](https://github.com/razorfay/maybank-m.u.m./blob/master/Rewards%20Page.png??raw=true) 
+
+
