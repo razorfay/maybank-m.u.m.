@@ -7,6 +7,20 @@ This app is intended to be integrated into the currently existing Maybank mobile
 
 ## What's in it?
 
-* Main page, displays current balance,savings, seeing how much is being spent in a particular category and setting the expected spending
-* Transaction history page, displays daily, monthly and yearly transactions with the date,amount and description
-* Savings page, showing total savings to date and breakdown of how the savings are being used
+### Tracking the current balance and usage of money of the user
+* Split spending into different categories such as food, entertainment and transport to allow user to see how much they are spending on each category
+* Plan how much the user intends to spend on that particular category for the month and show how much of it has been used so far
+
+### Saving with benefits!
+*
+
+### View past transactions and see what was it for
+* Timeline of user's transaction history and what categories the money falls under
+* Also displays points gotten along the way from investments and savings
+
+## Quick Guide to how the App will work
+
+![Main Page] (https://github.com/razorfay/maybank-m.u.m./blob/master/Main%20Page.png)
+![Transaction Page] (https://github.com/razorfay/maybank-m.u.m./blob/master/Transaction%20Page.png)
+![Savings Page] (https://github.com/razorfay/maybank-m.u.m./blob/master/Savings%20Page.png)
+![Rewards Page] (https://github.com/razorfay/maybank-m.u.m./blob/master/Rewards%20Page.png)
