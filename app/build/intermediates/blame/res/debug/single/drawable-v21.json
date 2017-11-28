@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\nixon\\Desktop\\Maybank Hackathon\\M.U.M.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\nixon\\.android\\build-cache\\52ed1984efbb2fb4f6c2f1be965eb31b5196650f\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nixon\\Desktop\\Maybank Hackathon\\M.U.M.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\nixon\\.android\\build-cache\\52ed1984efbb2fb4f6c2f1be965eb31b5196650f\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nixon\\Desktop\\Maybank Hackathon\\M.U.M.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\nixon\\.android\\build-cache\\52ed1984efbb2fb4f6c2f1be965eb31b5196650f\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nixon\\Desktop\\Maybank Hackathon\\M.U.M.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\nixon\\.android\\build-cache\\7ba5314eb59637eb15156ae723170c2fd9fd7d8f\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\nixon\\Desktop\\Maybank Hackathon\\M.U.M.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\nixon\\.android\\build-cache\\52ed1984efbb2fb4f6c2f1be965eb31b5196650f\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nixon\\Desktop\\Maybank Hackathon\\M.U.M.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\nixon\\.android\\build-cache\\7ba5314eb59637eb15156ae723170c2fd9fd7d8f\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\nixon\\Desktop\\Maybank Hackathon\\M.U.M.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\nixon\\.android\\build-cache\\7ba5314eb59637eb15156ae723170c2fd9fd7d8f\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nixon\\Desktop\\Maybank Hackathon\\M.U.M.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\nixon\\.android\\build-cache\\7ba5314eb59637eb15156ae723170c2fd9fd7d8f\\output\\res\\drawable-v21\\design_password_eye.xml"
+    }
+]

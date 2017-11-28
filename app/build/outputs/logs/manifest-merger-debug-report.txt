@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nixon\.android\build-cache\7cb6961ca13f0aa4f901aafdcace58c0afe08c99\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\7ba5314eb59637eb15156ae723170c2fd9fd7d8f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\52ed1984efbb2fb4f6c2f1be965eb31b5196650f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\689dad1c0f7da88bdd598d9686e989dbfa27415c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\421de42fb32848cfd7a53e03ef6aec1fe50f4994\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\e2c6ae270479783adf8ee851382a2262556a7a5a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\4ff7c7679eabf11e954749c69f882af035ca185a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\6d149a9a1e0603c434310441aecd79532d0f11fe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\37207f78501cf55430bc974898a3dbbb730ae777\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\7173c622c539f6cc803f73141f9b2994afb2f3b6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\afa89c2347c9a0fc2ec0fb733fd6a155658cb973\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\5981e6f3ac3825f997698f11690696381b6e3d66\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:11:9-52
+activity#maybank.mum.MainActivity
+ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:16:27-74
+activity#maybank.mum.Savings
+ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:19:9-22:59
+	android:label
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:21:13-59
+	android:theme
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:20:13-36
+activity#maybank.mum.Rewards
+ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:23:9-26:59
+	android:label
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:25:13-59
+	android:theme
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:24:13-36
+activity#maybank.mum.Transaction
+ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:27:9-58
+	android:name
+		ADDED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml:27:19-46
+uses-sdk
+INJECTED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nixon\.android\build-cache\7cb6961ca13f0aa4f901aafdcace58c0afe08c99\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\7ba5314eb59637eb15156ae723170c2fd9fd7d8f\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\52ed1984efbb2fb4f6c2f1be965eb31b5196650f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\689dad1c0f7da88bdd598d9686e989dbfa27415c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\421de42fb32848cfd7a53e03ef6aec1fe50f4994\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\586fa55261ba5d61bedc6890fa3b80e1dcf6742a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\e2c6ae270479783adf8ee851382a2262556a7a5a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\4ff7c7679eabf11e954749c69f882af035ca185a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\6d149a9a1e0603c434310441aecd79532d0f11fe\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\37207f78501cf55430bc974898a3dbbb730ae777\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\7173c622c539f6cc803f73141f9b2994afb2f3b6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\afa89c2347c9a0fc2ec0fb733fd6a155658cb973\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\5981e6f3ac3825f997698f11690696381b6e3d66\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\7ba5314eb59637eb15156ae723170c2fd9fd7d8f\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nixon\Desktop\Maybank Hackathon\M.U.M.2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\7ba5314eb59637eb15156ae723170c2fd9fd7d8f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\52ed1984efbb2fb4f6c2f1be965eb31b5196650f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\689dad1c0f7da88bdd598d9686e989dbfa27415c\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\421de42fb32848cfd7a53e03ef6aec1fe50f4994\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\586fa55261ba5d61bedc6890fa3b80e1dcf6742a\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\e2c6ae270479783adf8ee851382a2262556a7a5a\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\4ff7c7679eabf11e954749c69f882af035ca185a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\6d149a9a1e0603c434310441aecd79532d0f11fe\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\37207f78501cf55430bc974898a3dbbb730ae777\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\7173c622c539f6cc803f73141f9b2994afb2f3b6\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\afa89c2347c9a0fc2ec0fb733fd6a155658cb973\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\5981e6f3ac3825f997698f11690696381b6e3d66\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\7ba5314eb59637eb15156ae723170c2fd9fd7d8f\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\nixon\.android\build-cache\7ba5314eb59637eb15156ae723170c2fd9fd7d8f\output\AndroidManifest.xml:26:9-47

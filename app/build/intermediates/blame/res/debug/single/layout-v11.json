@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\nixon\\Desktop\\Maybank Hackathon\\M.U.M.2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\nixon\\.android\\build-cache\\52ed1984efbb2fb4f6c2f1be965eb31b5196650f\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\nixon\\Desktop\\Maybank Hackathon\\M.U.M.2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\nixon\\.android\\build-cache\\52ed1984efbb2fb4f6c2f1be965eb31b5196650f\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\nixon\\Desktop\\Maybank Hackathon\\M.U.M.2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\nixon\\.android\\build-cache\\52ed1984efbb2fb4f6c2f1be965eb31b5196650f\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\nixon\\Desktop\\Maybank Hackathon\\M.U.M.2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\nixon\\.android\\build-cache\\52ed1984efbb2fb4f6c2f1be965eb31b5196650f\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\nixon\\Desktop\\Maybank Hackathon\\M.U.M.2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\nixon\\.android\\build-cache\\52ed1984efbb2fb4f6c2f1be965eb31b5196650f\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\nixon\\Desktop\\Maybank Hackathon\\M.U.M.2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\nixon\\.android\\build-cache\\52ed1984efbb2fb4f6c2f1be965eb31b5196650f\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]
